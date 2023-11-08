@@ -1,1 +1,13 @@
+.nyc_output
+.grunt
 
+node_modules/
+jspm_packages/
+
+.npm
+.next
+.cache
+.env
+.env.test
+
+.DS_Store
